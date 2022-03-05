@@ -6,4 +6,4 @@
 
 ## nanobotに関すること
 
-[こちら](/nanobot.md)
+[こちら](/nanobot.html)
