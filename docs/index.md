@@ -2,4 +2,4 @@
 
 ## 目次
 
-[ラジオのステーションID](/docs/radio.md)
+[ラジオのステーションID](/docs/radio.html)
